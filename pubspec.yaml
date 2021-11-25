@@ -39,6 +39,7 @@ dependencies:
   analyzer: ^1.7.0
   dio: ^4.0.4
   json_serializable: ^4.1.4
+  dartz: ^0.10.0
 
 dev_dependencies:
   flutter_test:
